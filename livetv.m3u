@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://image.780309.xyz/CCTV1.png" group-title="央视频道",CCTV1
 http://121.226.23.194:55555/rtp/239.49.8.129:6000
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://image.780309.xyz/CCTV1.png" group-title="央视频道",CCTV1
 http://115.230.32.85:4022/udp/233.50.200.99:5140
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://image.780309.xyz/CCTV1.png" group-title="央视频道",CCTV1
 http://61.145.188.90:60022/udp/239.77.1.17:5146
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://image.780309.xyz/CCTV1.png" group-title="央视频道",CCTV1
 http://27.19.29.186:999/rtp/239.254.96.96:8550
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://image.780309.xyz/CCTV1.png" group-title="央视频道",CCTV1
 http://123.174.106.183:8888/udp/239.1.1.7:8007
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://image.780309.xyz/CCTV1.png" group-title="央视频道",CCTV1
 http://124.116.170.138:8081/rtp/239.112.205.59:5140
 
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://image.780309.xyz/CCTV2.png" group-title="央视频道",CCTV2
 http://121.226.23.194:55555/rtp/239.49.8.130:6000
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://image.780309.xyz/CCTV2.png" group-title="央视频道",CCTV2
 http://115.230.32.85:4022/udp/233.50.200.25:5140
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://image.780309.xyz/CCTV2.png" group-title="央视频道",CCTV2
 http://61.145.188.90:60022/udp/239.77.1.158:5146
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://image.780309.xyz/CCTV2.png" group-title="央视频道",CCTV2
 http://27.19.29.186:999/rtp/239.69.1.102:10250
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://image.780309.xyz/CCTV2.png" group-title="央视频道",CCTV2
 http://123.174.106.183:8888/udp/239.1.1.8:8008
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://image.780309.xyz/CCTV2.png" group-title="央视频道",CCTV2
 http://124.116.170.138:8081/rtp/239.112.205.78:5140
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV3
@@ -713,6 +713,7 @@ http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="Astro Football" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/xzsc2008/tvlive/refs/heads/main/tubiao/AstroFootball.png" group-title="专业足球频道",Astro Football
 http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+
 
 
 
