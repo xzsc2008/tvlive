@@ -332,7 +332,7 @@ http://router.870503.xyz:18885/udp/239.45.3.229:5140
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://1.194.52.235:8888/rtp/239.16.10.10:2000
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://171.116.254.33:9003/hls/20/index.m3u8
+http://27.19.29.186:999/rtp/239.254.96.141:8920
 
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://124.64.220.84:8686/rtp/239.3.1.141:1234
@@ -343,16 +343,16 @@ http://1.194.52.235:8888/rtp/239.16.20.96:10960
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://58.48.104.196:4022/rtp/239.69.1.68:10048
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://171.116.254.33:9003/hls/45/index.m3u8
+http://27.19.29.186:999/rtp/239.69.1.68:10048
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://61.145.188.90:60022/udp/239.77.0.98:5146
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://183.191.226.209:8082/rtp/226.0.2.175:9312
+http://1.194.52.235:8888/rtp/239.16.20.73:10730
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://36.24.185.17:8888/udp/233.50.200.146:5140
+http://58.48.104.196:4022/rtp/239.254.96.142:8926
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://1.192.16.58:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.116.254.33:9003/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://27.19.29.186:999/rtp/239.254.96.142:8926
 
@@ -752,6 +752,7 @@ http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 #EXTINF:-1 tvg-name="Unifi体育1台" tvg-logo="https://image.780309.xyz/unifi%20sports.png" group-title="体育频道",Unifi体育1台
 http://s1.an94tv.cfd/astro/unifisports1/AKTV.m3u8
+
 
 
 
