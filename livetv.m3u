@@ -237,9 +237,9 @@ http://60.184.42.120:8881/udp/233.50.200.113:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道",风云足球
 http://27.19.29.186:999/rtp/239.69.1.81:10126
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道",风云足球
-http://124.163.77.156:85/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.104.141.218:8686/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道",风云足球
-http://115.150.14.216:34567/rtp/239.252.219.96:5140
+http://home.yulei.online:9999/rtp/226.0.2.225:9712
 
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="陕西频道",陕西卫视
 http://124.116.170.138:8081/rtp/239.111.205.35:5140
@@ -357,7 +357,7 @@ http://36.24.185.17:8888/udp/233.50.200.146:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://1.192.16.58:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://27.19.29.186:999/rtp/239.69.1.68:10048
+http://27.19.29.186:999/rtp/239.254.96.142:8926
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://61.145.188.90:60022/udp/239.77.1.5:5146
@@ -755,5 +755,6 @@ http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 #EXTINF:-1 tvg-name="Unifi体育1台" tvg-logo="https://image.780309.xyz/unifi%20sports.png" group-title="体育频道",Unifi体育1台
 http://s1.an94tv.cfd/astro/unifisports1/AKTV.m3u8
+
 
 
