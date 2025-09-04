@@ -234,15 +234,15 @@ http://124.116.170.138:8081/rtp/239.112.205.211:5140
 http://27.9.90.255:8010/udp/225.0.4.179:7980
 
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道",风云足球
-http://124.112.84.95:4000/rtp/238.1.79.57:4592
+http://27.191.203.155:19999/rtp/239.254.201.222:7251
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道",风云足球
-http://183.184.124.162:8002/rtp/226.0.2.225:9712
+http://123.180.173.170:8188/rtp/239.254.201.222:7251
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道",风云足球
 
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道",风云足球
-http://183.189.196.210:8888/rtp/226.0.2.225:9712
+
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道",风云足球
-http://58.48.104.196:4022/rtp/239.69.1.81:10126
+
 
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="陕西频道",陕西卫视
 http://124.116.170.138:8081/rtp/239.111.205.35:5140
@@ -826,6 +826,7 @@ http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 #EXTINF:-1 tvg-name="Unifi体育1台" tvg-logo="https://image.780309.xyz/unifi%20sports.png" group-title="体育频道",Unifi体育1台
 http://s1.an94tv.cfd/astro/unifisports1/AKTV.m3u8
+
 
 
 
