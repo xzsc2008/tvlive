@@ -789,3 +789,5 @@ https://jackcdn8.946985.qzz.io/live/lhrh/stream.m3u8
 https://jackcdn8.946985.qzz.io/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://image.780309.xyz/龙华洋片.png" group-title="台湾频道",龙华洋片
 https://jackcdn8.946985.qzz.io/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-name="测试" tvg-logo="https://image.780309.xyz/龙华洋片.png" group-title="台湾频道",测试
+https://api.m3use.projectmoose.xyz/m3u/lineagecat/gtlive/68206353efe94a7a0f860213.m3u8?uid=lineagecat&pkey=yWBD4ALq
