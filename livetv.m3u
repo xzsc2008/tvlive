@@ -621,20 +621,20 @@ http://171.116.254.33:9003/hls/48/index.m3u8
 http://61.145.188.90:60022/udp/239.253.43.37:5146
 
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
-http://125.44.208.130:7000/rtp/225.1.4.44:1073
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
-http://36.136.38.87:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://60.223.72.158:8001/rtp/226.0.2.59:8384
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
 
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
 
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
 
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
+http://110.177.144.26:9003/hls/40/index.m3u8
 
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://image.780309.xyz/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://110.191.253.155:8188/udp/239.93.0.175:5140
+http://171.8.171.131:8800/rtp/239.16.20.100:11000
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://image.780309.xyz/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://125.44.208.130:7000/rtp/225.1.4.46:1075
+http://60.223.72.146:8002/rtp/226.0.2.66:8440
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://image.780309.xyz/西藏卫视.png" group-title="卫视频道",西藏卫视
 
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://image.780309.xyz/西藏卫视.png" group-title="卫视频道",西藏卫视
@@ -645,7 +645,7 @@ http://125.44.208.130:7000/rtp/225.1.4.46:1075
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://image.780309.xyz/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://1.30.81.248:4022/udp/239.125.1.59:5000
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://image.780309.xyz/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://118.81.76.194:9003/hls/38/index.m3u8
+http://124.67.68.139:4022/udp/239.125.1.59:5000
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://image.780309.xyz/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://image.780309.xyz/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
@@ -654,9 +654,9 @@ http://118.81.76.194:9003/hls/38/index.m3u8
 
 
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://image.780309.xyz/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://171.119.205.21:6000/rtp/226.0.2.67:8448
+http://60.223.72.146:8002/rtp/226.0.2.67:8448
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://image.780309.xyz/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://118.81.193.194:9003/hls/47/index.m3u8
+http://171.8.171.131:8800/rtp/239.16.20.93:10930
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://image.780309.xyz/新疆卫视.png" group-title="卫视频道",新疆卫视
 
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://image.780309.xyz/新疆卫视.png" group-title="卫视频道",新疆卫视
@@ -760,21 +760,47 @@ https://jackcdn.946985.qzz.io/live/hoy/stream.m3u8
 https://jackcdn.946985.qzz.io/live/viu/stream.m3u8
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://image.780309.xyz/viutv.png" group-title="香港频道",VIUTV
 http://bxtv.3a.ink/api.php?id=viutv
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://image.780309.xyz/澳视澳门.png" group-title="香港频道",澳视澳门
-https://jackcdn6.946985.qzz.io/live/asam/stream.m3u8
-#EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://image.780309.xyz/澳门卫星.png" group-title="香港频道",澳门卫星
-https://jackcdn6.946985.qzz.io/live/as/stream.m3u8
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://image.780309.xyz/八度空间（马来西亚）.png" group-title="香港频道",八度空间
-https://jackcdn6.946985.qzz.io/live/8tv/stream.m3u8
 
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://image.780309.xyz/中天新闻台.png" group-title="台湾频道",中天新闻
 http://bxtv.3a.ink/api.php?id=ztxw
-#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://image.780309.xyz/Channel%205.png" group-title="台湾频道",Channel 5
-https://jackcdn6.946985.qzz.io/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://image.780309.xyz/Channel%208.png" group-title="台湾频道",Channel 8
-https://jackcdn6.946985.qzz.io/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://image.780309.xyz/Channel%20U.png" group-title="台湾频道",Channel U
-https://jackcdn6.946985.qzz.io/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://image.780309.xyz/中天亚洲.png" group-title="台湾频道",中天亚洲
+http://iptv.4666888.xyz/iptv.php?id=20196
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://image.780309.xyz/中天综合.png" group-title="台湾频道",中天综合
+http://iptv.4666888.xyz/iptv.php?id=20195
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://image.780309.xyz/中天娱乐.png" group-title="台湾频道",中天娱乐
+http://iptv.4666888.xyz/iptv.php?id=20194
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://image.780309.xyz/TVBS.png" group-title="台湾频道",TVBS
+http://iptv.4666888.xyz/iptv.php?id=20188
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://image.780309.xyz/TVBS新闻.png" group-title="台湾频道",TVBS新闻
+http://iptv.4666888.xyz/iptv.php?id=20168
+#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://image.780309.xyz/TVBS亚洲.png" group-title="台湾频道",TVBS亚洲
+http://iptv.4666888.xyz/iptv.php?id=20190
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://image.780309.xyz/TVBS欢乐.png" group-title="台湾频道",TVBS欢乐
+http://iptv.4666888.xyz/iptv.php?id=20189
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://image.780309.xyz/中视.png" group-title="台湾频道",中视
+http://iptv.4666888.xyz/iptv.php?id=20183
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://image.780309.xyz/中视新闻.png" group-title="台湾频道",中视新闻
+http://iptv.4666888.xyz/iptv.php?id=20171
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://image.780309.xyz/中视经典.png" group-title="台湾频道",中视经典
+http://iptv.4666888.xyz/iptv.php?id=20221
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://image.780309.xyz/东森新闻.png" group-title="台湾频道",东森新闻
+http://iptv.4666888.xyz/iptv.php?id=20174
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://image.780309.xyz/东森综合.png" group-title="台湾频道",东森综合
+http://iptv.4666888.xyz/iptv.php?id=20206
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://image.780309.xyz/东森电影.png" group-title="台湾频道",东森电影
+http://iptv.4666888.xyz/iptv.php?id=20211
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://image.780309.xyz/台视.png" group-title="台湾频道",台视
+http://iptv.4666888.xyz/iptv.php?id=20186
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://image.780309.xyz/台视新闻.png" group-title="台湾频道",台视新闻
+http://iptv.4666888.xyz/iptv.php?id=20172
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://image.780309.xyz/台视综合.png" group-title="台湾频道",台视综合
+http://iptv.4666888.xyz/iptv.php?id=20220
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://image.780309.xyz/华视.png" group-title="台湾频道",华视
+http://iptv.4666888.xyz/iptv.php?id=20184
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://image.780309.xyz/华视新闻.png" group-title="台湾频道",华视新闻
+http://iptv.4666888.xyz/iptv.php?id=20209
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://image.780309.xyz/寰宇新闻.png" group-title="台湾频道",寰宇新闻
+http://iptv.4666888.xyz/iptv.php?id=20176
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://image.780309.xyz/龙华电影.png" group-title="台湾频道",龙华电影
 https://jackcdn8.946985.qzz.io/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://image.780309.xyz/龙华经典.png" group-title="台湾频道",龙华经典
@@ -789,5 +815,42 @@ https://jackcdn8.946985.qzz.io/live/lhrh/stream.m3u8
 https://jackcdn8.946985.qzz.io/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://image.780309.xyz/龙华洋片.png" group-title="台湾频道",龙华洋片
 https://jackcdn8.946985.qzz.io/live/lhyp/stream.m3u8
-#EXTINF:-1 tvg-name="测试" tvg-logo="https://image.780309.xyz/龙华洋片.png" group-title="台湾频道",测试
-https://api.m3use.projectmoose.xyz/m3u/lineagecat/gtlive/68206353efe94a7a0f860213.m3u8?uid=lineagecat&pkey=yWBD4ALq
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://image.780309.xyz/纬来电影.png" group-title="台湾频道",纬来电影
+http://iptv.4666888.xyz/iptv.php?id=20227
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://image.780309.xyz/纬来体育.png" group-title="台湾频道",纬来体育
+http://iptv.4666888.xyz/iptv.php?id=20225
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://image.780309.xyz/靖天电影.png" group-title="台湾频道",靖天电影
+http://iptv.4666888.xyz/iptv.php?id=20300
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://image.780309.xyz/靖天戏剧.png" group-title="台湾频道",靖天戏剧
+http://iptv.4666888.xyz/iptv.php?id=20299
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://image.780309.xyz/靖天卡通.png" group-title="台湾频道",靖天卡通
+http://iptv.4666888.xyz/iptv.php?id=20295
+#EXTINF:-1 tvg-name="靖洋戏剧" tvg-logo="https://image.780309.xyz/靖洋戏剧.png" group-title="台湾频道",靖洋戏剧
+http://iptv.4666888.xyz/iptv.php?id=20294
+#EXTINF:-1 tvg-name="靖洋卡通" tvg-logo="https://image.780309.xyz/靖洋卡通.png" group-title="台湾频道",靖洋卡通
+http://iptv.4666888.xyz/iptv.php?id=20296
+#EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="https://image.780309.xyz/艾尔达体育1.png" group-title="台湾频道",爱尔达体育1
+http://iptv.4666888.xyz/iptv.php?id=20232
+#EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="https://image.780309.xyz/艾尔达体育2.png" group-title="台湾频道",爱尔达体育2
+http://iptv.4666888.xyz/iptv.php?id=20233
+#EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="https://image.780309.xyz/艾尔达体育3.png" group-title="台湾频道",爱尔达体育3
+http://iptv.4666888.xyz/iptv.php?id=20234
+#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://image.780309.xyz/博斯运动1.png" group-title="台湾频道",博斯运动1
+http://iptv.4666888.xyz/iptv.php?id=20263
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://image.780309.xyz/博斯运动2.png" group-title="台湾频道",博斯运动2
+http://iptv.4666888.xyz/iptv.php?id=20264
+
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://image.780309.xyz/澳视澳门.png" group-title="其他频道",澳视澳门
+https://jackcdn6.946985.qzz.io/live/asam/stream.m3u8
+#EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://image.780309.xyz/澳门卫星.png" group-title="其他频道",澳门卫星
+https://jackcdn6.946985.qzz.io/live/as/stream.m3u8
+#EXTINF:-1 tvg-name="八度空间（马来西亚）" tvg-logo="https://image.780309.xyz/八度空间（马来西亚）.png" group-title="其他频道",八度空间（马来西亚）
+https://jackcdn6.946985.qzz.io/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://image.780309.xyz/星空卫视.png" group-title="其他频道",星空卫视
+http://iptv.4666888.xyz/iptv.php?id=20083
+#EXTINF:-1 tvg-name="Channel 5（新加坡）" tvg-logo="https://image.780309.xyz/Channel%205.png" group-title="其他频道",Channel 5（新加坡）
+https://jackcdn6.946985.qzz.io/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-name="Channel 8（新加坡）" tvg-logo="https://image.780309.xyz/Channel%208.png" group-title="台湾频道",Channel 8（新加坡）
+https://jackcdn6.946985.qzz.io/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-name="Channel U（新加坡）" tvg-logo="https://image.780309.xyz/Channel%20U.png" group-title="台湾频道",Channel U（新加坡）
+https://jackcdn6.946985.qzz.io/live/chu/stream.m3u8
