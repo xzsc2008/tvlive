@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://image.780309.xyz/CCTV1.png" group-title="央视频道",CCTV1
-http://49.64.133.48:4000/rtp/239.49.8.129:6000
+http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://image.780309.xyz/CCTV1.png" group-title="央视频道",CCTV1
 http://118.81.194.244:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://image.780309.xyz/CCTV1.png" group-title="央视频道",CCTV1
@@ -303,25 +303,25 @@ http://124.116.170.138:8081/rtp/239.111.205.242:5140
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://image.780309.xyz/西安新闻综合.png" group-title="陕西频道",西安新闻综合
 http://113.200.114.168:9003/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://image.780309.xyz/西安新闻综合.png" group-title="陕西频道",西安新闻综合
-
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1757403106&token=a3f5b59f3fcc2c8b3136099c4002387c
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://image.780309.xyz/西安都市频道.png" group-title="陕西频道",西安都市频道
 http://124.116.170.138:8081/rtp/239.111.205.243:5140
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://image.780309.xyz/西安都市频道.png" group-title="陕西频道",西安都市频道
 http://113.200.114.168:9003/hls/49/index.m3u8
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://image.780309.xyz/西安都市频道.png" group-title="陕西频道",西安都市频道
-
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E9%83%BD%E5%B8%82&t=1757403106&token=cc16cfb5b1fbbe564f323346cc3e71bf
 #EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://image.780309.xyz/西安商务资讯.png" group-title="陕西频道",西安商务资讯
 http://124.116.170.138:8081/rtp/239.112.205.174:5140
 #EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://image.780309.xyz/西安商务资讯.png" group-title="陕西频道",西安商务资讯
-
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E5%95%86%E5%8A%A1%E8%B5%84%E8%AE%AF&t=1757403106&token=d8685136931792b3e7cf95af2d0e80fe
 #EXTINF:-1 tvg-name="西安戏剧影视" tvg-logo="https://image.780309.xyz/西安影视频道.png" group-title="陕西频道",西安戏剧影视
 http://124.116.170.138:8081/rtp/239.112.205.175:5140
 #EXTINF:-1 tvg-name="西安戏剧影视" tvg-logo="https://image.780309.xyz/西安影视频道.png" group-title="陕西频道",西安戏剧影视
-
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%88%8F%E5%89%A7%E5%BD%B1%E8%A7%86&t=1757403106&token=ba132553311b68441e2f0b453bbf4c94
 #EXTINF:-1 tvg-name="西安丝路频道" tvg-logo="https://image.780309.xyz/西安丝路频道.png" group-title="陕西频道",西安丝路频道
 http://124.116.170.138:8081/rtp/239.112.205.176:5140
 #EXTINF:-1 tvg-name="西安丝路频道" tvg-logo="https://image.780309.xyz/西安丝路频道.png" group-title="陕西频道",西安丝路频道
-
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E4%B8%9D%E8%B7%AF&t=1757403106&token=d681d6691d591c1ad4a922dc2b35c8ae
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://image.780309.xyz/北京卫视.png" group-title="卫视频道",北京卫视
 http://router.870503.xyz:18885/udp/239.45.3.229:5140
