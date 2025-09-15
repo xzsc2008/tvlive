@@ -238,9 +238,7 @@ http://111.227.194.60:4022/rtp/239.254.201.222:7251
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://image.780309.xyz/风云足球.png" group-title="央视频道",风云足球
 http://113.56.95.223:8889/udp/228.0.0.236:6108
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://image.780309.xyz/风云足球.png" group-title="央视频道",风云足球
-https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E9%A3%8E%E4%BA
-
-%91%E8%B6%B3%E7%90%83&t=1757403106&token=3f744bdd470ac2b54436a5d32b052559
+https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&t=1757403106&token=3f744bdd470ac2b54436a5d32b052559
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://image.780309.xyz/风云足球.png" group-title="央视频道",风云足球
 
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://image.780309.xyz/风云足球.png" group-title="央视频道",风云足球
@@ -305,23 +303,17 @@ http://124.116.170.138:8081/rtp/239.111.205.242:5140
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://image.780309.xyz/西安新闻综合.png" group-title="陕西频道",西安新闻综合
 http://113.200.114.168:9003/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://image.780309.xyz/西安新闻综合.png" group-title="陕西频道",西安新闻综合
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC
-
-%E5%90%88&t=1757403106&token=a3f5b59f3fcc2c8b3136099c4002387c
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1757403106&token=a3f5b59f3fcc2c8b3136099c4002387c
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://image.780309.xyz/西安都市频道.png" group-title="陕西频道",西安都市频道
 http://124.116.170.138:8081/rtp/239.111.205.243:5140
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://image.780309.xyz/西安都市频道.png" group-title="陕西频道",西安都市频道
 http://113.200.114.168:9003/hls/49/index.m3u8
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://image.780309.xyz/西安都市频道.png" group-title="陕西频道",西安都市频道
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E9%83%BD
-
-%E5%B8%82&t=1757403106&token=cc16cfb5b1fbbe564f323346cc3e71bf
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E9%83%BD%E5%B8%82&t=1757403106&token=cc16cfb5b1fbbe564f323346cc3e71bf
 #EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://image.780309.xyz/西安商务资讯.png" group-title="陕西频道",西安商务资讯
 http://124.116.170.138:8081/rtp/239.112.205.174:5140
 #EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://image.780309.xyz/西安商务资讯.png" group-title="陕西频道",西安商务资讯
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E5%95%86%E5%8A%A1%E8%B5%84%E8%AE
-
-%AF&t=1757403106&token=d8685136931792b3e7cf95af2d0e80fe
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E5%95%86%E5%8A%A1%E8%B5%84%E8%AE%AF&t=1757403106&token=d8685136931792b3e7cf95af2d0e80fe
 #EXTINF:-1 tvg-name="西安戏剧影视" tvg-logo="https://image.780309.xyz/西安影视频道.png" group-title="陕西频道",西安戏剧影视
 http://124.116.170.138:8081/rtp/239.112.205.175:5140
 #EXTINF:-1 tvg-name="西安戏剧影视" tvg-logo="https://image.780309.xyz/西安影视频道.png" group-title="陕西频道",西安戏剧影视
@@ -331,9 +323,7 @@ https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%88%8F
 #EXTINF:-1 tvg-name="西安丝路频道" tvg-logo="https://image.780309.xyz/西安丝路频道.png" group-title="陕西频道",西安丝路频道
 http://124.116.170.138:8081/rtp/239.112.205.176:5140
 #EXTINF:-1 tvg-name="西安丝路频道" tvg-logo="https://image.780309.xyz/西安丝路频道.png" group-title="陕西频道",西安丝路频道
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E4%B8%9D
-
-%E8%B7%AF&t=1757403106&token=d681d6691d591c1ad4a922dc2b35c8ae
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E4%B8%9D%E8%B7%AF&t=1757403106&token=d681d6691d591c1ad4a922dc2b35c8ae
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://image.780309.xyz/北京卫视.png" group-title="卫视频道",北京卫视
 http://router.870503.xyz:18885/udp/239.45.3.229:5140
@@ -570,9 +560,7 @@ http://api.kkitv.itv888.cn:8080/hls/lcceocfdwh/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://image.780309.xyz/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://171.116.147.32:9003/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://image.780309.xyz/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB
-
-%E8%A7%86&t=1757403106&token=8720ad557351a7bb8ee33d382f35c5d3
+https://stream.iptv-search.com/iptv_test/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1757403106&token=8720ad557351a7bb8ee33d382f35c5d3
 
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://image.780309.xyz/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://118.81.194.244:9003/hls/39/index.m3u8
@@ -625,9 +613,7 @@ http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://image.780309.xyz/海南卫视.png" group-title="卫视频道",海南卫视
 http://router.870503.xyz:18885/udp/239.45.1.81:5140
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://image.780309.xyz/海南卫视.png" group-title="卫视频道",海南卫视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB
-
-%E8%A7%86&t=1757403106&token=2383c42518c87b456a3b897eaf2ea679
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=2383c42518c87b456a3b897eaf2ea679
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://image.780309.xyz/海南卫视.png" group-title="卫视频道",海南卫视
 
 
@@ -645,9 +631,7 @@ http://61.145.188.90:60022/udp/239.253.43.37:5146
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
 http://58.21.83.106:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB
-
-%E8%A7%86&t=1757401893&token=7c13867d3a2a46e853e0de1657164255
+https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1757401893&token=7c13867d3a2a46e853e0de1657164255
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
 
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://image.780309.xyz/青海卫视.png" group-title="卫视频道",青海卫视
@@ -658,9 +642,7 @@ https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://image.780309.xyz/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://118.81.194.244:9003/hls/46/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://image.780309.xyz/西藏卫视.png" group-title="卫视频道",西藏卫视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB
-
-%E8%A7%86&t=1757403106&token=fa1ec635343db967cdcede33b3e6ccdf
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1757403106&token=fa1ec635343db967cdcede33b3e6ccdf
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://image.780309.xyz/西藏卫视.png" group-title="卫视频道",西藏卫视
 
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://image.780309.xyz/西藏卫视.png" group-title="卫视频道",西藏卫视
@@ -684,9 +666,7 @@ http://118.81.194.244:9003/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://image.780309.xyz/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://api.kkitv.itv888.cn:8080/hls/vr12qgtucx/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://image.780309.xyz/新疆卫视.png" group-title="卫视频道",新疆卫视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB
-
-%E8%A7%86&t=1757401893&token=1e0e260f59e7625b29c0d71ea6e3083c
+https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1757401893&token=1e0e260f59e7625b29c0d71ea6e3083c
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://image.780309.xyz/新疆卫视.png" group-title="卫视频道",新疆卫视
 
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://image.780309.xyz/新疆卫视.png" group-title="卫视频道",新疆卫视
@@ -898,8 +878,7 @@ https://php.946985.xyz/iptv/jacktv.php?id=snic8c
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://image.780309.xyz/龙华洋片.png" group-title="台湾频道",龙华洋片
 http://iptv.4666888.xyz/iptv.php?id=20242
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://image.780309.xyz/纬来电影.png" group-title="台湾频道",纬来电影
-https://live.catvod.com/catvod_com.php?
-id=videolandmovie&token=5b726fabbb533cb3942053b2378642bbe3efd7d70b84118f6b93a9f69ee9cb02%3A1757897992
+https://live.catvod.com/catvod_com.php?id=videolandmovie&token=5b726fabbb533cb3942053b2378642bbe3efd7d70b84118f6b93a9f69ee9cb02%3A1757897992
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://image.780309.xyz/纬来体育.png" group-title="台湾频道",纬来体育
 http://iptv.4666888.xyz/iptv.php?id=20225
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://image.780309.xyz/靖天电影.png" group-title="台湾频道",靖天电影
@@ -952,3 +931,4 @@ https://php.946985.xyz/iptv/jacktv.php?id=mox6uc
 https://php.946985.xyz/iptv/jacktv.php?id=ptbwtj
 #EXTINF:-1 tvg-name="Channel U（新加坡）" tvg-logo="https://image.780309.xyz/Channel%20U.png" group-title="其他频道",Channel U（新加坡）
 https://php.946985.xyz/iptv/jacktv.php?id=dozzq2
+
