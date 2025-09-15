@@ -303,7 +303,9 @@ http://124.116.170.138:8081/rtp/239.111.205.242:5140
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://image.780309.xyz/西安新闻综合.png" group-title="陕西频道",西安新闻综合
 http://113.200.114.168:9003/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://image.780309.xyz/西安新闻综合.png" group-title="陕西频道",西安新闻综合
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1757403106&token=a3f5b59f3fcc2c8b3136099c4002387c
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC
+
+%E5%90%88&t=1757403106&token=a3f5b59f3fcc2c8b3136099c4002387c
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://image.780309.xyz/西安都市频道.png" group-title="陕西频道",西安都市频道
 http://124.116.170.138:8081/rtp/239.111.205.243:5140
 #EXTINF:-1 tvg-name="西安都市频道" tvg-logo="https://image.780309.xyz/西安都市频道.png" group-title="陕西频道",西安都市频道
@@ -313,11 +315,15 @@ https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E9%83%BD
 #EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://image.780309.xyz/西安商务资讯.png" group-title="陕西频道",西安商务资讯
 http://124.116.170.138:8081/rtp/239.112.205.174:5140
 #EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://image.780309.xyz/西安商务资讯.png" group-title="陕西频道",西安商务资讯
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E5%95%86%E5%8A%A1%E8%B5%84%E8%AE%AF&t=1757403106&token=d8685136931792b3e7cf95af2d0e80fe
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E5%95%86%E5%8A%A1%E8%B5%84%E8%AE
+
+%AF&t=1757403106&token=d8685136931792b3e7cf95af2d0e80fe
 #EXTINF:-1 tvg-name="西安戏剧影视" tvg-logo="https://image.780309.xyz/西安影视频道.png" group-title="陕西频道",西安戏剧影视
 http://124.116.170.138:8081/rtp/239.112.205.175:5140
 #EXTINF:-1 tvg-name="西安戏剧影视" tvg-logo="https://image.780309.xyz/西安影视频道.png" group-title="陕西频道",西安戏剧影视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%88%8F%E5%89%A7%E5%BD%B1%E8%A7%86&t=1757403106&token=ba132553311b68441e2f0b453bbf4c94
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%88%8F%E5%89%A7%E5%BD
+
+%B1%E8%A7%86&t=1757403106&token=ba132553311b68441e2f0b453bbf4c94
 #EXTINF:-1 tvg-name="西安丝路频道" tvg-logo="https://image.780309.xyz/西安丝路频道.png" group-title="陕西频道",西安丝路频道
 http://124.116.170.138:8081/rtp/239.112.205.176:5140
 #EXTINF:-1 tvg-name="西安丝路频道" tvg-logo="https://image.780309.xyz/西安丝路频道.png" group-title="陕西频道",西安丝路频道
@@ -810,6 +816,8 @@ http://iptv.4666888.xyz/iptv.php?id=20168
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://image.780309.xyz/TVBS新闻.png" group-title="台湾频道",TVBS新闻
 https://live.catvod.com/catvod_com.php?id=tvbs_n&token=8844a711bb4ce9ffde0e5a85dc281f87a474d83ccd1c4ae59c94d37eadbabcf8%3A1757897992
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://image.780309.xyz/TVBS亚洲.png" group-title="台湾频道",TVBS亚洲
+https://live.catvod.com/catvod_com.php?id=Xinhe&token=829f2e6415e6f00781ab9e93d2c70b49bb7aafe4ce9ed2773c1df13ded50ad77%3A1757897992
+#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://image.780309.xyz/TVBS亚洲.png" group-title="台湾频道",TVBS亚洲
 http://iptv.4666888.xyz/iptv.php?id=20190
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://image.780309.xyz/TVBS欢乐.png" group-title="台湾频道",TVBS欢乐
 http://iptv.4666888.xyz/iptv.php?id=20189
@@ -857,6 +865,8 @@ https://live.catvod.com/catvod_com.php?id=ctshd_twn&token=e302388c58c05c74b9af55
 http://iptv.4666888.xyz/iptv.php?id=20209
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://image.780309.xyz/寰宇新闻.png" group-title="台湾频道",寰宇新闻
 http://iptv.4666888.xyz/iptv.php?id=20176
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://image.780309.xyz/寰宇新闻.png" group-title="台湾频道",寰宇新闻
+https://live.catvod.com/catvod_com.php?id=huanyuxinwen_twn&token=9846e5fc6c04d696c6a9ca9ae662d991481ad66a1a95d4d798be35fadff3583a%3A1757897992
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://image.780309.xyz/龙华电影.png" group-title="台湾频道",龙华电影
 https://php.946985.xyz/iptv/jacktv.php?id=aylefz
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://image.780309.xyz/龙华电影.png" group-title="台湾频道",龙华电影
@@ -920,6 +930,8 @@ https://live.catvod.com/catvod_com.php?id=Assp1&token=5efb0120614d667e6abd8430d2
 https://live.catvod.com/catvod_com.php?id=go_assp2&token=b01dee6ef7760c3327aa11aefd13118a9ef2255c6f477f580300ee4e91ece060%3A1757897992
 #EXTINF:-1 tvg-name="AstroFootball" tvg-logo="https://image.780309.xyz/AstroFootball.png" group-title="其他频道",AstroFootball
 https://live.catvod.com/catvod_com.php?id=go_assp4&token=05ba13705edb457311d85717748d018035904f63b9b45e9ed1998d6f4f99b8f9%3A1757897992
+#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://image.780309.xyz/爱奇艺.png" group-title="其他频道",爱奇艺
+https://live.catvod.com/catvod_com.php?id=Qiyi&token=cc5ddeea37c923b057e80a9176ea0d247c500c3de92620f88422386f4f044eb7%3A1757897992
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://image.780309.xyz/澳视澳门.png" group-title="其他频道",澳视澳门
 https://php.946985.xyz/iptv/jacktv.php?id=oveddo
 #EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://image.780309.xyz/澳门卫星.png" group-title="其他频道",澳门卫星
@@ -932,7 +944,13 @@ https://php.946985.xyz/iptv/jacktv.php?id=6sb3tx
 http://iptv.4666888.xyz/iptv.php?id=20083
 #EXTINF:-1 tvg-name="Channel 5（新加坡）" tvg-logo="https://image.780309.xyz/Channel%205.png" group-title="其他频道",Channel 5（新加坡）
 https://php.946985.xyz/iptv/jacktv.php?id=mox6uc
+#EXTINF:-1 tvg-name="Channel 5（新加坡）" tvg-logo="https://image.780309.xyz/Channel%205.png" group-title="其他频道",Channel 5（新加坡）
+https://live.catvod.com/catvod_com.php?id=Channel5HD&token=56b584a59a11dab461fb01a95bb018b44341905fc55c6fca8da6853b2de6ce83%3A1757897992
 #EXTINF:-1 tvg-name="Channel 8（新加坡）" tvg-logo="https://image.780309.xyz/Channel%208.png" group-title="其他频道",Channel 8（新加坡）
 https://php.946985.xyz/iptv/jacktv.php?id=ptbwtj
+#EXTINF:-1 tvg-name="Channel 8（新加坡）" tvg-logo="https://image.780309.xyz/Channel%208.png" group-title="其他频道",Channel 8（新加坡）
+https://live.catvod.com/catvod_com.php?id=Channel8HD&token=6bf598bc34580b677680caa532268b006d516f24f169cafcab7e809153595142%3A1757897992
 #EXTINF:-1 tvg-name="Channel U（新加坡）" tvg-logo="https://image.780309.xyz/Channel%20U.png" group-title="其他频道",Channel U（新加坡）
 https://php.946985.xyz/iptv/jacktv.php?id=dozzq2
+#EXTINF:-1 tvg-name="Channel U（新加坡）" tvg-logo="https://image.780309.xyz/Channel%20U.png" group-title="其他频道",Channel U（新加坡）
+https://live.catvod.com/catvod_com.php?id=ChannelU&token=f3c46e78a86724cabd1dc325c7474b48e474f90a62ba7e64e70f1375b23089a4%3A1757897992
