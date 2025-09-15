@@ -917,11 +917,9 @@ https://live.catvod.com/catvod_com.php?id=go_assp4&token=05ba13705edb457311d8571
 https://php.946985.xyz/iptv/jacktv.php?id=oveddo
 #EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://image.780309.xyz/澳门卫星.png" group-title="其他频道",澳门卫星
 https://php.946985.xyz/iptv/jacktv.php?id=ub3j7w
-#EXTINF:-1 tvg-name="八度空间（马来西亚）" tvg-logo="https://image.780309.xyz/八度空间（马来西亚）.png" group-title="其他频道",八度空间（
-马来西亚）
+#EXTINF:-1 tvg-name="八度空间（马来西亚）" tvg-logo="https://image.780309.xyz/八度空间（马来西亚）.png" group-title="其他频道",八度空间（马来西亚）
 http://iptv.4666888.xyz/iptv.php?id=20306
-#EXTINF:-1 tvg-name="八度空间（马来西亚）" tvg-logo="https://image.780309.xyz/八度空间（马来西亚）.png" group-title="其他频道",八度空间（
-马来西亚）
+#EXTINF:-1 tvg-name="八度空间（马来西亚）" tvg-logo="https://image.780309.xyz/八度空间（马来西亚）.png" group-title="其他频道",八度空间（马来西亚）
 https://php.946985.xyz/iptv/jacktv.php?id=6sb3tx
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://image.780309.xyz/星空卫视.png" group-title="其他频道",星空卫视
 http://iptv.4666888.xyz/iptv.php?id=20083
@@ -931,4 +929,3 @@ https://php.946985.xyz/iptv/jacktv.php?id=mox6uc
 https://php.946985.xyz/iptv/jacktv.php?id=ptbwtj
 #EXTINF:-1 tvg-name="Channel U（新加坡）" tvg-logo="https://image.780309.xyz/Channel%20U.png" group-title="其他频道",Channel U（新加坡）
 https://php.946985.xyz/iptv/jacktv.php?id=dozzq2
-
