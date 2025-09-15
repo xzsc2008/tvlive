@@ -317,9 +317,7 @@ https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E5%95%86
 #EXTINF:-1 tvg-name="西安戏剧影视" tvg-logo="https://image.780309.xyz/西安影视频道.png" group-title="陕西频道",西安戏剧影视
 http://124.116.170.138:8081/rtp/239.112.205.175:5140
 #EXTINF:-1 tvg-name="西安戏剧影视" tvg-logo="https://image.780309.xyz/西安影视频道.png" group-title="陕西频道",西安戏剧影视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%88%8F%E5%89%A7%E5%BD
-
-%B1%E8%A7%86&t=1757403106&token=ba132553311b68441e2f0b453bbf4c94
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E5%AE%89%E6%88%8F%E5%89%A7%E5%BD%B1%E8%A7%86&t=1757403106&token=ba132553311b68441e2f0b453bbf4c94
 #EXTINF:-1 tvg-name="西安丝路频道" tvg-logo="https://image.780309.xyz/西安丝路频道.png" group-title="陕西频道",西安丝路频道
 http://124.116.170.138:8081/rtp/239.112.205.176:5140
 #EXTINF:-1 tvg-name="西安丝路频道" tvg-logo="https://image.780309.xyz/西安丝路频道.png" group-title="陕西频道",西安丝路频道
@@ -519,9 +517,7 @@ http://58.21.83.106:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://image.780309.xyz/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://router.870503.xyz:18885/udp/239.45.0.6:5140
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://image.780309.xyz/吉林卫视.png" group-title="卫视频道",吉林卫视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB
-
-%E8%A7%86&t=1757403106&token=8551761887f9d1d143160cb92931dc3a
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1757403106&token=8551761887f9d1d143160cb92931dc3a
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://image.780309.xyz/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u8
 
@@ -530,9 +526,7 @@ http://118.81.194.244:9003/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://image.780309.xyz/山西卫视.png" group-title="卫视频道",山西卫视
 http://api.kkitv.itv888.cn:8080/hls/8c66y3d5kp8/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://image.780309.xyz/山西卫视.png" group-title="卫视频道",山西卫视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB
-
-%E8%A7%86&t=1757403106&token=635850a25e2e653483e3a667692516d9
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1757403106&token=635850a25e2e653483e3a667692516d9
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://image.780309.xyz/山西卫视.png" group-title="卫视频道",山西卫视
 
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://image.780309.xyz/山西卫视.png" group-title="卫视频道",山西卫视
@@ -547,9 +541,7 @@ http://router.870503.xyz:18885/udp/239.45.1.80:5140
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://image.780309.xyz/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://api.kkitv.itv888.cn:8080/hls/5dqtpf3arun/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://image.780309.xyz/贵州卫视.png" group-title="卫视频道",贵州卫视
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB
-
-%E8%A7%86&t=1757403106&token=434c620615781b1bb1881bf9c258fe3e
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1757403106&token=434c620615781b1bb1881bf9c258fe3e
 
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://image.780309.xyz/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://58.21.83.106:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -681,7 +673,7 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://image.780309.xyz/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视
 http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://image.780309.xyz/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视
-http://iptv.4666888.xyz/iptv.php?id=20063
+http://iptv.4666888.xyz/iptv.php?id=20060
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://image.780309.xyz/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
 http://bxtv.3a.ink/api.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://image.780309.xyz/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
@@ -691,7 +683,7 @@ http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://image.780309.xyz/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://image.780309.xyz/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-http://iptv.4666888.xyz/iptv.php?id=20064
+http://iptv.4666888.xyz/iptv.php?id=20061
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://image.780309.xyz/凤凰卫视香港台.png" group-title="香港频道",凤凰香港
 http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://image.780309.xyz/凤凰卫视香港台.png" group-title="香港频道",凤凰香港
@@ -699,7 +691,7 @@ https://php.946985.xyz/iptv/jacktv.php?id=7ir8td
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://image.780309.xyz/凤凰卫视香港台.png" group-title="香港频道",凤凰香港
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://image.780309.xyz/凤凰卫视香港台.png" group-title="香港频道",凤凰香港
-http://iptv.4666888.xyz/iptv.php?id=20065
+http://iptv.4666888.xyz/iptv.php?id=20062
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://image.780309.xyz/香港卫视.png" group-title="香港频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://image.780309.xyz/myTV SUPER 18台.png" group-title="香港频道",myTV SUPER 18台
@@ -713,15 +705,21 @@ http://iptv.4666888.xyz/iptv.php?id=20092
 #EXTINF:-1 tvg-name="NOW sports3" tvg-logo="https://image.780309.xyz/nowsports3.png" group-title="香港频道",NOW sports3
 http://iptv.4666888.xyz/iptv.php?id=20084
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://image.780309.xyz/无线新闻台.png" group-title="香港频道",无线新闻台
+http://iptv.4666888.xyz/iptvGO.php?id=6
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://image.780309.xyz/无线新闻台.png" group-title="香港频道",无线新闻台
 https://php.946985.xyz/iptv/jacktv.php?id=hz9flj
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://image.780309.xyz/无线新闻台.png" group-title="香港频道",无线新闻台
 http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://image.780309.xyz/娱乐新闻.png" group-title="香港频道",娱乐新闻台
+http://iptv.4666888.xyz/iptvGO.php?id=7
 #EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://image.780309.xyz/娱乐新闻.png" group-title="香港频道",娱乐新闻台
 https://php.946985.xyz/iptv/jacktv.php?id=za9480
 #EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://image.780309.xyz/娱乐新闻.png" group-title="香港频道",娱乐新闻台
 https://php.946985.xyz/iptv/jacktv.php?id=s9ve23
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://image.780309.xyz/TVBPlus.png" group-title="香港频道",TVB Plus
 http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://image.780309.xyz/TVBPlus.png" group-title="香港频道",TVB Plus
+http://iptv.4666888.xyz/iptvGO.php?id=10
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://image.780309.xyz/TVBPlus.png" group-title="香港频道",TVB Plus
 https://php.946985.xyz/iptv/jacktv.php?id=rzxo36
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://image.780309.xyz/翡翠台.png" group-title="香港频道",TVB翡翠
@@ -736,8 +734,12 @@ https://php.946985.xyz/iptv/jacktv.php?id=ahc6yc
 http://iptv.4666888.xyz/iptv.php?id=20102
 #EXTINF:-1 tvg-name="TVB一台" tvg-logo="https://image.780309.xyz/TVB1.png" group-title="香港频道",TVB一台
 https://php.946985.xyz/iptv/jacktv.php?id=srhi6u
+#EXTINF:-1 tvg-name="TVB一台" tvg-logo="https://image.780309.xyz/TVB1.png" group-title="香港频道",TVB一台
+http://iptv.4666888.xyz/iptv.php?id=20095
 #EXTINF:-1 tvg-name="TVBJ1台" tvg-logo="https://image.780309.xyz/TVBJ1.png" group-title="香港频道",TVBJ1台
 https://php.946985.xyz/iptv/jacktv.php?id=73iipd
+#EXTINF:-1 tvg-name="TVBJ1台" tvg-logo="https://image.780309.xyz/TVBJ1.png" group-title="香港频道",TVBJ1台
+http://iptv.4666888.xyz/iptv.php?id=20096
 #EXTINF:-1 tvg-name="TVB亚洲武侠" tvg-logo="https://image.780309.xyz/TVB功夫台.png" group-title="香港频道",TVB亚洲武侠
 https://php.946985.xyz/iptv/jacktv.php?id=8fy3f5
 #EXTINF:-1 tvg-name="TVB亚洲武侠(国)" tvg-logo="https://image.780309.xyz/TVB功夫台.png" group-title="香港频道",TVB亚洲武侠(国)
@@ -754,8 +756,12 @@ https://php.946985.xyz/iptv/jacktv.php?id=dig7b7
 http://bxtv.3a.ink/api.php?id=mz
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://image.780309.xyz/RTHK31.png" group-title="香港频道",RTHK31
 https://php.946985.xyz/iptv/jacktv.php?id=3yyvwq
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://image.780309.xyz/RTHK31.png" group-title="香港频道",RTHK31
+http://iptv.4666888.xyz/iptv.php?id=20080
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://image.780309.xyz/RTHK32.png" group-title="香港频道",RTHK32
 https://php.946985.xyz/iptv/jacktv.php?id=vljx2v
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://image.780309.xyz/RTHK32.png" group-title="香港频道",RTHK32
+http://iptv.4666888.xyz/iptv.php?id=20081
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://image.780309.xyz/天映频道.png" group-title="香港频道",天映频道
 https://php.946985.xyz/iptv/jacktv.php?id=xuc48y
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://image.780309.xyz/天映经典.png" group-title="香港频道",天映经典
@@ -774,6 +780,8 @@ http://bxtv.3a.ink/api.php?id=popc
 https://php.946985.xyz/iptv/jacktv.php?id=59uja4
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://image.780309.xyz/viutv.png" group-title="香港频道",VIUTV
 https://php.946985.xyz/iptv/jacktv.php?id=j4xkdg
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://image.780309.xyz/viutv.png" group-title="香港频道",VIUTV
+http://iptv.4666888.xyz/iptv.php?id=20075
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://image.780309.xyz/viutv.png" group-title="香港频道",VIUTV
 http://bxtv.3a.ink/api.php?id=viutv
 
@@ -900,8 +908,7 @@ http://iptv.4666888.xyz/iptv.php?id=20234
 #EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://image.780309.xyz/博斯运动1.png" group-title="台湾频道",博斯运动1
 http://iptv.4666888.xyz/iptv.php?id=20263
 #EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://image.780309.xyz/博斯运动1.png" group-title="台湾频道",博斯运动1
-https://live.catvod.com/catvod_com.php?
-id=bosisport1_twn&token=3130a9507f5f02d8f8e6c6cc481e9d4367c2043a26977fc6080781739f9db300%3A1757897992
+https://live.catvod.com/catvod_com.php?id=bosisport1_twn&token=3130a9507f5f02d8f8e6c6cc481e9d4367c2043a26977fc6080781739f9db300%3A1757897992
 #EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://image.780309.xyz/博斯运动2.png" group-title="台湾频道",博斯运动2
 http://iptv.4666888.xyz/iptv.php?id=20264
 #EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://image.780309.xyz/博斯运动2.png" group-title="台湾频道",博斯运动2
