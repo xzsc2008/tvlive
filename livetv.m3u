@@ -667,7 +667,7 @@ https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://image.780309.xyz/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视
 http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://image.780309.xyz/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视
-https://jackcdn6.946985.qzz.io/live/fhzw/stream.m3u8
+https://php.946985.xyz/iptv/jacktv.php?id=9t8q05
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://image.780309.xyz/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://image.780309.xyz/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视
@@ -677,7 +677,7 @@ http://iptv.4666888.xyz/iptv.php?id=20063
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://image.780309.xyz/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
 http://bxtv.3a.ink/api.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://image.780309.xyz/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
-https://jackcdn6.946985.qzz.io/live/fhzx/stream.m3u8
+https://php.946985.xyz/iptv/jacktv.php?id=1ravxl
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://image.780309.xyz/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://image.780309.xyz/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
@@ -759,7 +759,7 @@ https://jacksmt.946985.qzz.io/smt3.2.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="美亞电影(香港)" tvg-logo="https://image.780309.xyz/美亚电影台.png" group-title="香港频道",美亞电影(香港)
 http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-name="美亞电影(台湾)" tvg-logo="https://image.780309.xyz/美亚电影台.png" group-title="香港频道",美亞电影(台湾)
-https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=29d2328b067a9651fadf58522dc79a5e806ce389a6a2fa7479ee32bb09a9de3a%3A1757845899
+https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=41e2c16757d2daefbdc2dfb39360bb8b021ee830537f70140a6e37213f0edb2f%3A1757897992
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://image.780309.xyz/PopC.png" group-title="香港频道",PopC
 http://bxtv.3a.ink/api.php?id=popc
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://image.780309.xyz/HOYTV.png" group-title="香港频道",HOYTV
@@ -773,40 +773,72 @@ http://bxtv.3a.ink/api.php?id=viutv
 
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://image.780309.xyz/中天新闻台.png" group-title="台湾频道",中天新闻
 http://bxtv.3a.ink/api.php?id=ztxw
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://image.780309.xyz/中天新闻台.png" group-title="台湾频道",中天新闻
+https://live.catvod.com/catvod_com.php?id=ctinews&token=8ff259914b64bf90e68e5d7c973e866db007793a5c6174f4dc4ada1291b1eea8%3A1757897992
 #EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://image.780309.xyz/中天亚洲.png" group-title="台湾频道",中天亚洲
 http://iptv.4666888.xyz/iptv.php?id=20196
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://image.780309.xyz/中天亚洲.png" group-title="台湾频道",中天亚洲
+https://live.catvod.com/catvod_com.php?id=ctiasia_twn&token=0319cbaf6b11ee05264abd3b04211b7c524649309f449e8e1da5256cd9ec6fde%3A1757897992
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://image.780309.xyz/中天综合.png" group-title="台湾频道",中天综合
 http://iptv.4666888.xyz/iptv.php?id=20195
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://image.780309.xyz/中天综合.png" group-title="台湾频道",中天综合
+https://live.catvod.com/catvod_com.php?id=ctizhonghe&token=dd223b73b320476fbb7a7e5ab7927f0edc2df5aa048b9e63313d52ac24362d2d%3A1757897992
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://image.780309.xyz/中天娱乐.png" group-title="台湾频道",中天娱乐
 http://iptv.4666888.xyz/iptv.php?id=20194
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://image.780309.xyz/中天娱乐.png" group-title="台湾频道",中天娱乐
+https://live.catvod.com/catvod_com.php?id=ctient&token=138886acc3efcf6d4f3b2234b0a9c52330cb4380b5569ee2a8030901ca13a0cf%3A1757897992
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://image.780309.xyz/TVBS.png" group-title="台湾频道",TVBS
 http://iptv.4666888.xyz/iptv.php?id=20188
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://image.780309.xyz/TVBS.png" group-title="台湾频道",TVBS
+https://live.catvod.com/catvod_com.php?id=tvbs&token=13d40234b1972815f756e4bdf9c01a28cb5f6ef56af903d247d52429bb3c4640%3A1757897992
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://image.780309.xyz/TVBS新闻.png" group-title="台湾频道",TVBS新闻
 http://iptv.4666888.xyz/iptv.php?id=20168
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://image.780309.xyz/TVBS新闻.png" group-title="台湾频道",TVBS新闻
+https://live.catvod.com/catvod_com.php?id=tvbs_n&token=8844a711bb4ce9ffde0e5a85dc281f87a474d83ccd1c4ae59c94d37eadbabcf8%3A1757897992
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://image.780309.xyz/TVBS亚洲.png" group-title="台湾频道",TVBS亚洲
 http://iptv.4666888.xyz/iptv.php?id=20190
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://image.780309.xyz/TVBS欢乐.png" group-title="台湾频道",TVBS欢乐
 http://iptv.4666888.xyz/iptv.php?id=20189
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://image.780309.xyz/TVBS欢乐.png" group-title="台湾频道",TVBS欢乐
+https://live.catvod.com/catvod_com.php?id=tvbshuanle_twn&token=8a36675fa814ab076faed47e6c092a15d37b02614a45a4a6df92b128d2c6fbf2%3A1757897992
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://image.780309.xyz/中视.png" group-title="台湾频道",中视
 http://iptv.4666888.xyz/iptv.php?id=20183
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://image.780309.xyz/中视.png" group-title="台湾频道",中视
+https://live.catvod.com/catvod_com.php?id=zhongshihd_twn&token=94c1ea7b247d6469abaa6b0205e926e4ade7c79e6698c9eba9d0969ecbf75f8b%3A1757897992
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://image.780309.xyz/中视新闻.png" group-title="台湾频道",中视新闻
 http://iptv.4666888.xyz/iptv.php?id=20171
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://image.780309.xyz/中视新闻.png" group-title="台湾频道",中视新闻
+https://live.catvod.com/catvod_com.php?id=zhongshinews_twn&token=301f112e9a7772344317ae95b0ed1361b7fabbf1aaacf23ad4641ab5a47f8b4d%3A1757897992
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://image.780309.xyz/中视经典.png" group-title="台湾频道",中视经典
 http://iptv.4666888.xyz/iptv.php?id=20221
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://image.780309.xyz/东森新闻.png" group-title="台湾频道",东森新闻
 http://iptv.4666888.xyz/iptv.php?id=20174
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://image.780309.xyz/东森新闻.png" group-title="台湾频道",东森新闻
+https://live.catvod.com/catvod_com.php?id=ettvnews&token=a878d05787f9e20827381337701bf88a46b64b94eb8b69cbdeb79cb3a0961684%3A1757897992
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://image.780309.xyz/东森综合.png" group-title="台湾频道",东森综合
 http://iptv.4666888.xyz/iptv.php?id=20206
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://image.780309.xyz/东森综合.png" group-title="台湾频道",东森综合
+https://live.catvod.com/catvod_com.php?id=ettvzhonghe&token=bdebc8ca66dcb977a011cd7de3ec24aa880bc1d3ced572ef2557aaf9100576e3%3A1757897992
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://image.780309.xyz/东森电影.png" group-title="台湾频道",东森电影
 http://iptv.4666888.xyz/iptv.php?id=20211
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://image.780309.xyz/东森电影.png" group-title="台湾频道",东森电影
+https://live.catvod.com/catvod_com.php?id=ettvmovie&token=3fcb6f74a2fb0eacd4335f1c6459aea2e5c3a44967b516b94b0020b8354ca256%3A1757897992
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://image.780309.xyz/台视.png" group-title="台湾频道",台视
 http://iptv.4666888.xyz/iptv.php?id=20186
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://image.780309.xyz/台视.png" group-title="台湾频道",台视
+https://live.catvod.com/catvod_com.php?id=ttv_taiwan&token=cfb78ed6df042085daa6603b0e33756375274527185d41e2fd9c950f69d97d59%3A1757897992
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://image.780309.xyz/台视新闻.png" group-title="台湾频道",台视新闻
 http://iptv.4666888.xyz/iptv.php?id=20172
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://image.780309.xyz/台视新闻.png" group-title="台湾频道",台视新闻
+https://live.catvod.com/catvod_com.php?id=ttvnews_twn&token=2eafb3a8cc5450e3b8d4dc09beb308ec9ae4b83e0fd5bb428a471575e9ff821d%3A1757897992
 #EXTINF:-1 tvg-name="台视综合" tvg-logo="https://image.780309.xyz/台视综合.png" group-title="台湾频道",台视综合
 http://iptv.4666888.xyz/iptv.php?id=20220
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://image.780309.xyz/台视综合.png" group-title="台湾频道",台视综合
+https://live.catvod.com/catvod_com.php?id=ttvzhonghe&token=5801b8bde439df3a42439dd806c298824a62edf5c3a709435614d46762e340c7%3A1757897992
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://image.780309.xyz/华视.png" group-title="台湾频道",华视
 http://iptv.4666888.xyz/iptv.php?id=20184
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://image.780309.xyz/华视.png" group-title="台湾频道",华视
+https://live.catvod.com/catvod_com.php?id=ctshd_twn&token=e302388c58c05c74b9af55c1c25b9560baed32b9ee26f7319d4fa1dd6838d256%3A1757897992
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://image.780309.xyz/华视新闻.png" group-title="台湾频道",华视新闻
 http://iptv.4666888.xyz/iptv.php?id=20209
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://image.780309.xyz/寰宇新闻.png" group-title="台湾频道",寰宇新闻
@@ -840,7 +872,7 @@ https://jackcdn8.946985.qzz.io/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://image.780309.xyz/龙华洋片.png" group-title="台湾频道",龙华洋片
 http://iptv.4666888.xyz/iptv.php?id=20242
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://image.780309.xyz/纬来电影.png" group-title="台湾频道",纬来电影
-https://live.catvod.com/catvod_com.php?id=videolandmovie&token=7bd6f10cebb1a79759e5f3e67570fa8f0432e7e903008448565302cfbe3c3622%3A1757845899
+https://live.catvod.com/catvod_com.php?id=videolandmovie&token=5b726fabbb533cb3942053b2378642bbe3efd7d70b84118f6b93a9f69ee9cb02%3A1757897992
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://image.780309.xyz/纬来体育.png" group-title="台湾频道",纬来体育
 http://iptv.4666888.xyz/iptv.php?id=20225
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://image.780309.xyz/靖天电影.png" group-title="台湾频道",靖天电影
@@ -861,15 +893,19 @@ http://iptv.4666888.xyz/iptv.php?id=20233
 http://iptv.4666888.xyz/iptv.php?id=20234
 #EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://image.780309.xyz/博斯运动1.png" group-title="台湾频道",博斯运动1
 http://iptv.4666888.xyz/iptv.php?id=20263
+#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://image.780309.xyz/博斯运动1.png" group-title="台湾频道",博斯运动1
+https://live.catvod.com/catvod_com.php?id=bosisport1_twn&token=3130a9507f5f02d8f8e6c6cc481e9d4367c2043a26977fc6080781739f9db300%3A1757897992
 #EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://image.780309.xyz/博斯运动2.png" group-title="台湾频道",博斯运动2
 http://iptv.4666888.xyz/iptv.php?id=20264
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://image.780309.xyz/博斯运动2.png" group-title="台湾频道",博斯运动2
+https://live.catvod.com/catvod_com.php?id=bosisport2_twn&token=9859a5fee1de0ff9e1f54a13a8070413631447c1c2793a986b5da8c90a0cd880%3A1757897992
 
 #EXTINF:-1 tvg-name="Supersports 1" tvg-logo="https://image.780309.xyz/AstroSupersport.png" group-title="其他频道",Supersports 1
-https://live.catvod.com/catvod_com.php?id=Assp1&token=13affcf082fcea10f79f25e1eb526b7a4f831e2b822a1313dfff751d20a64214%3A1757845899
+https://live.catvod.com/catvod_com.php?id=Assp1&token=5efb0120614d667e6abd8430d29e4ab08b91e40b53812a751fd324c2aa1a2b71%3A1757897992
 #EXTINF:-1 tvg-name="Supersports 2" tvg-logo="https://image.780309.xyz/AstroSupersport.png" group-title="其他频道",Supersports 2
-https://live.catvod.com/catvod_com.php?id=go_assp2&token=d3989e865be0c42f2422291923e237a993e0705f4c59f30cad2e3d3c5b7a3082%3A1757845899
+https://live.catvod.com/catvod_com.php?id=go_assp2&token=b01dee6ef7760c3327aa11aefd13118a9ef2255c6f477f580300ee4e91ece060%3A1757897992
 #EXTINF:-1 tvg-name="AstroFootball" tvg-logo="https://image.780309.xyz/AstroFootball.png" group-title="其他频道",AstroFootball
-https://live.catvod.com/catvod_com.php?id=Assp1&token=13affcf082fcea10f79f25e1eb526b7a4f831e2b822a1313dfff751d20a64214%3A1757845899
+https://live.catvod.com/catvod_com.php?id=go_assp4&token=05ba13705edb457311d85717748d018035904f63b9b45e9ed1998d6f4f99b8f9%3A1757897992
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://image.780309.xyz/澳视澳门.png" group-title="其他频道",澳视澳门
 https://jackcdn6.946985.qzz.io/live/asam/stream.m3u8
 #EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://image.780309.xyz/澳门卫星.png" group-title="其他频道",澳门卫星
