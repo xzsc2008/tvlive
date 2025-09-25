@@ -1,65 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1-综合" tvg-logo="" group-title="央视",CCTV1-综合
-http://211.142.224.62:2023/paiptv/CCTV1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2-财经" tvg-logo="" group-title="央视",CCTV2-财经
-http://211.142.224.62:2023/paiptv/CCTV2.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3-综艺" tvg-logo="" group-title="央视",CCTV3-综艺
-http://211.142.224.62:2023/paiptv/CCTV3.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4-国际" tvg-logo="" group-title="央视",CCTV4-国际
-http://211.142.224.62:2023/paiptv/CCTV4.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5-体育" tvg-logo="" group-title="央视",CCTV5-体育
-http://211.142.224.62:2023/paiptv/CCTV5.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV6-电影" tvg-logo="" group-title="电影",CCTV6-电影
-http://211.142.224.62:2023/paiptv/CCTV6.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV7-军农" tvg-logo="" group-title="央视",CCTV7-军农
-http://211.142.224.62:2023/paiptv/CCTV7.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV8-电视剧" tvg-logo="" group-title="央视",CCTV8-电视剧
-http://211.142.224.62:2023/paiptv/CCTV8.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV9-纪录" tvg-logo="" group-title="央视",CCTV9-纪录
-http://211.142.224.62:2023/paiptv/CCTV9.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV10-科教" tvg-logo="" group-title="央视",CCTV10-科教
-http://211.142.224.62:2023/paiptv/CCTV10.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV11-戏曲" tvg-logo="" group-title="央视",CCTV11-戏曲
-http://211.142.224.62:2023/paiptv/CCTV11.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV12-社会与法" tvg-logo="" group-title="央视",CCTV12-社会与法
-http://211.142.224.62:2023/paiptv/CCTV12.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13-新闻" tvg-logo="" group-title="央视",CCTV13-新闻
-http://211.142.224.62:2023/paiptv/CCTV13.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV14-少儿" tvg-logo="" group-title="少儿",CCTV14-少儿
-http://211.142.224.62:2023/paiptv/CCTV14.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15-音乐" tvg-logo="" group-title="央视",CCTV15-音乐
-http://211.142.224.62:2023/paiptv/CCTV15.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV17" tvg-logo="" group-title="央视",CCTV17
-http://211.142.224.62:2023/paiptv/CCTV17.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="湖南卫视" tvg-logo="" group-title="卫视",湖南卫视
-http://211.142.224.62:2023/paiptv/HNTV.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="湖南经视" tvg-logo="" group-title="卫视",湖南经视
-http://211.142.224.62:2023/paiptv/HNJS.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="湖南电视剧" tvg-logo="" group-title="卫视",湖南电视剧
-http://211.142.224.62:2023/paiptv/HNDSJ.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="湖南都视" tvg-logo="" group-title="卫视",湖南都视
-http://211.142.224.62:2023/paiptv/HNDS.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="湖南娱乐" tvg-logo="" group-title="卫视",湖南娱乐
-http://211.142.224.62:2023/paiptv/hnyl.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="湖南电影" tvg-logo="" group-title="卫视",湖南电影
-http://211.142.224.62:2023/paiptv/HNDY.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="湖南爱晚" tvg-logo="" group-title="卫视",湖南爱晚
-http://211.142.224.62:2023/paiptv/HNAW.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="湖南卡通" tvg-logo="" group-title="卫视",湖南卡通
-http://211.142.224.62:2023/paiptv/jykt.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
-http://211.142.224.62:2023/paiptv/jsws.m3u8
-#EXTINF:-1 tvg-id="1005" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
-http://211.142.224.62:2023/paiptv/dfws.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视
-http://211.142.224.62:2023/paiptv/zjws.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="安徽卫视" tvg-logo="" group-title="卫视",安徽卫视
-http://211.142.224.62:2023/paiptv/ahws.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
-http://211.142.224.62:2023/paiptv/bjws.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
-http://211.142.224.62:2023/paiptv/jxws.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="深圳卫视" tvg-logo="" group-title="卫视",深圳卫视
-http://211.142.224.62:2023/paiptv/szws.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
-http://211.142.224.62:2023/paiptv/lnws.m3u8
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1-综合" group-title="央视",CCTV1-综合
+http://58.245.255.38:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2-财经" group-title="央视",CCTV2-财经
+http://58.245.255.38:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3-综艺" group-title="央视",CCTV3-综艺
+http://58.245.255.38:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4-国际" group-title="央视",CCTV4-国际
+http://58.245.255.38:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5-体育" group-title="央视",CCTV5-体育
+http://58.245.255.38:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6-电影" group-title="央视",CCTV6-电影
+http://58.245.255.38:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7-国防军事" group-title="央视",CCTV7-国防军事
+http://58.245.255.38:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8-电视剧" group-title="央视",CCTV8-电视剧
+http://58.245.255.38:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9-纪录" group-title="央视",CCTV9-纪录
+http://58.245.255.38:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10-科教" group-title="央视",CCTV10-科教
+http://58.245.255.38:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11-戏曲" group-title="央视",CCTV11-戏曲
+http://58.245.255.38:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12-社会与法" group-title="央视",CCTV12-社会与法
+http://58.245.255.38:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13-新闻" group-title="央视",CCTV13-新闻
+http://58.245.255.38:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14-少儿" group-title="央视",CCTV14-少儿
+http://58.245.255.38:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15-音乐" group-title="央视",CCTV15-音乐
+http://58.245.255.38:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16-奥林匹克" group-title="央视",CCTV16-奥林匹克
+http://58.245.255.38:9999/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17-农业农村" group-title="央视",CCTV17-农业农村
+http://58.245.255.38:9999/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
+http://58.245.255.38:9999/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
+http://58.245.255.38:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
+http://58.245.255.38:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
